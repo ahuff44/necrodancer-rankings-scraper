@@ -1,0 +1,8 @@
+{
+    "MASTER_LEADERBOARD_URL": "http://steamcommunity.com/stats/247080/leaderboards/?xml=1",
+    "NAME_CACHE_PATH": "name_cache.json",
+    "CSV_FILE_PATH": "leaderboards.csv",
+    "RANK_MODE": "true",
+    "RANK_CUTOFF": "100",
+    "INTERNET_COOLDOWN": "0.75"
+}
